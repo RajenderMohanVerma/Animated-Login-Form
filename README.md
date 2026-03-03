@@ -1,6 +1,6 @@
 # 🎭 Animated Login Form
 
-A beautiful **animated login form** embedded using [Visme.co](https://visme.co) — no backend required! Just open in a browser and enjoy the animation.
+A beautiful **animated login form** — no backend required! Just open in a browser and enjoy the animation.
 
 ---
 
@@ -17,7 +17,7 @@ A beautiful **animated login form** embedded using [Visme.co](https://visme.co) 
 ```
 Animated-Login-Form/
 │
-├── index.html       # Main HTML file with embedded Visme form
+├── index.html       # Main HTML file with embedded form
 └── README.md        # Project documentation
 ```
 
@@ -41,10 +41,10 @@ Animated-Login-Form/
 
 ## 🛠️ How It Was Built
 
-This form was created using **[Visme.co](https://visme.co)** — a free online form/survey builder with animation support.
+This form was created using an online form builder with animation support.
 
 ### Steps to create your own:
-1. Go to [visme.co](https://visme.co) and **Sign Up**
+1. Go to an online form builder and **Sign Up**
 2. Click on **Forms / Surveys**
 3. Choose a **template**
 4. Customize it (add character movements, colors, etc.)
@@ -59,7 +59,7 @@ This form was created using **[Visme.co](https://visme.co)** — a free online f
 |------------|-------|
 | HTML5 | Page structure |
 | CSS3 | Basic styling & centering |
-| Visme Embed | Animated login form |
+| Embed Form | Animated login form |
 
 ---
 
